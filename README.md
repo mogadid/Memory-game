@@ -24,8 +24,9 @@ To download it just clone it from here `https://github.com/mogadid/Memory-game.g
 	2. Keep matching up pairs until all cards are matched and faced up.
 	3. you win after all cards are faced up.
 
-- If your moves are greater than 15 and less than 25 then you will get 2 Stars.
-- If your moves are greater than 40 you will get 1 star.
+- If your moves are greater than 20 and less than 30 then you will get 2 Stars.
+- If your moves are greater than 30 and less than 60 then you will get 1 Stars.
+- If your moves are greater than 60 you will get 0 star.
 
 
 
