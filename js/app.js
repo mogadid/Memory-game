@@ -25,7 +25,7 @@ const starList = starsRating.querySelectorAll('i.fa-star');
 const scoreRatings = 3;
 
 // rating stars;
-let ratThreeStars = 15, ratTwoStars = 25, ratOneStar = 40;
+let ratThreeStars = 20, ratTwoStars = 30, ratOneStar = 60;
 
 // timer
 let gameTimer;
