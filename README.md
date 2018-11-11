@@ -1,20 +1,31 @@
 # Memory Game Project
 
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Contributing](#contributing)
 
 ## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+To download it just clone it from here `https://github.com/mogadid/Memory-game.git` Once you download it just open up the index.html file and enjoy!.
 
-To get started, open `js/app.js` and start building out the app's functionality
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+## The project built by using
 
-## Contributing
+- html
+- css
+- javascript
+- sweetalert
+- font awesome
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Rules of the game
+
+- The goal is to match all the cards together and win the game.
+	1. Start by clicking on two cards if they match, look for another pair of cards.
+	2. Keep matching up pairs until all cards are matched and faced up.
+	3. you win after all cards are faced up.
+
+- If your moves are greater than 15 and less than 25 then you will get 2 Stars.
+- If your moves are greater than 40 you will get 1 star.
+
+
+
+

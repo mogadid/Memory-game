@@ -112,6 +112,14 @@ h1 {
     float: right;
     cursor: pointer;
 }
+
+
+.score-panel .timer {
+    float: right;
+    margin-right: 12px;
+}
+
+
 /** Responsive Optimizations **/
 
 @media only screen and (max-width: 700px) {
