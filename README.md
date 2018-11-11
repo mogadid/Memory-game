@@ -1,4 +1,5 @@
 # Memory Game Project
+![Portfolio Site](https://github.com/mogadid/Memory-game/blob/master/img/MatchingGame.png)
 
 
 ## Instructions
